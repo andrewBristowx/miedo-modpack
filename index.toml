@@ -26,7 +26,11 @@ hash = "f298a81d20c0c511e662942007a620381f87a6f45c81d15a8c82cb5b062531c8"
 
 [[files]]
 file = "config/fancymenu/customization/miedo_loading.txt"
-hash = "4330fb3062b0e294fafdf5b746affe549205c71078c52b595048b0c098f19c5b"
+hash = "23dbe2115bf5002bcef133574be17b15dd7d2f06b5d739dfba4fdbec1defd59e"
+
+[[files]]
+file = "config/fancymenu/customization/miedo_title.txt"
+hash = "98e84133fa5451ef44cc5d9e940a10dbeacccfe91561af9fda634c5ce2cd5e52"
 
 [[files]]
 file = "config/fancymenu/options.txt"
