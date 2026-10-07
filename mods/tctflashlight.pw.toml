@@ -1,0 +1,13 @@
+name = "Flashlight"
+filename = "flashlight-5.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E2PCVLL5/versions/FkxtA6bu/flashlight-5.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "528443dfb242a625f8e2b6da3b8195ab47edc52606153e78d4de9842790168e4a24fc0830d45c759be0b2a6b13aaea6d81d02a754acc8d0ccb7be48002de5e45"
+
+[update]
+[update.modrinth]
+mod-id = "E2PCVLL5"
+version = "FkxtA6bu"

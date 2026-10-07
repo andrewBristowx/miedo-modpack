@@ -1,0 +1,13 @@
+name = "The Boy And The Bath [Horror, not a Dweller] [Doctor Nowhere]"
+filename = "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UqwJzAeJ/versions/yJBm6odg/the_boy_and_the_bath-4.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "31c4d6c7b912c436bfcf2235f39672f99982a0452223ac1f0a0dccd26628f517177829c8c251987d2f4be8c9c81df40386435df512e4a704fedb3116cb5d30d4"
+
+[update]
+[update.modrinth]
+mod-id = "UqwJzAeJ"
+version = "yJBm6odg"

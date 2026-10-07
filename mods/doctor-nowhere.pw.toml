@@ -1,0 +1,13 @@
+name = "Doctor Nowhere mod"
+filename = "doctor_nowhere-2.4.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ia5AwBus/versions/joXaBg3x/doctor_nowhere-2.4.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "258d42f29b26f7601badd58cd461761f6a5933b1dcd6e0115cad9fbc58e5f8384993624a57974878486ee1f54fdb5f7407af3e0b2c134f9f211b8ffb967ae9fa"
+
+[update]
+[update.modrinth]
+mod-id = "Ia5AwBus"
+version = "joXaBg3x"

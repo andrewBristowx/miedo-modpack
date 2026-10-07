@@ -1,0 +1,13 @@
+name = "TCT Core"
+filename = "tctcore-2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MlsBPB9a/versions/rCkABXJz/tctcore-2.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8ea392618ef54221d9273ee62d521d750f635cff7a1ed337f9dfa327099bf692fe368a795c9e2285faba325b0431ca0a5cde2afee7cd30f083f0dbe5f061c570"
+
+[update]
+[update.modrinth]
+mod-id = "MlsBPB9a"
+version = "rCkABXJz"

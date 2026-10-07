@@ -1,0 +1,13 @@
+name = "FADG"
+filename = "FADGhosts-forge1.20.1-1.6.2-entropy.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jH81p1UZ/versions/uidWwpyK/FADGhosts-forge1.20.1-1.6.2-entropy.jar"
+hash-format = "sha512"
+hash = "be6c7c982d83d0b67df41a3ccbee7e172664fe0066efd69bc696598db692631bcdf197db6dd5c4843bdb0accca64120a593383d6399e91938674e29aad3f0077"
+
+[update]
+[update.modrinth]
+mod-id = "jH81p1UZ"
+version = "uidWwpyK"

@@ -1,0 +1,13 @@
+name = "Server-Side Horror"
+filename = "serversidehorror-1.20.1-forge-4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJ4U0qmn/versions/e3oVpCgr/serversidehorror-1.20.1-forge-4.2.jar"
+hash-format = "sha512"
+hash = "6d48e3fabe444397d5f02f2b78369e07ac75ca7e6a985185f721499a871254366b5d01543143d2e0335c4a7066a425b36f40f966fa32b89e41023b52de8e6b1c"
+
+[update]
+[update.modrinth]
+mod-id = "RJ4U0qmn"
+version = "e3oVpCgr"

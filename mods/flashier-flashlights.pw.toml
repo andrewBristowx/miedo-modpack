@@ -1,0 +1,13 @@
+name = "Flashier Flashlights"
+filename = "Flashier Flashlights 1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2SOPUyLT/versions/idDIE0HV/Flashier%20Flashlights%201.2.0.jar"
+hash-format = "sha512"
+hash = "1065fc113fef88c992efc7dd100aafbc6fc7179722ebc88a8962e2093731be270b2695ac65fb0287864ebcd879a044aa33d341587c7565b16bd4427fbcdbdee4"
+
+[update]
+[update.modrinth]
+mod-id = "2SOPUyLT"
+version = "idDIE0HV"

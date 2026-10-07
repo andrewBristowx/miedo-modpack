@@ -1,0 +1,13 @@
+name = "Error 404 Not Found (Horror Entity)"
+filename = "Error404-1.3.8-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aqmlcBrn/versions/FJwwDdE9/Error404-1.3.8-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "5bee15b92323ab1a15ab2aada309d7fdeb0b2e885f292c8b0f669f43fb51422b66d02928b7ae2caa1a73b13c52ada29aebd7506abe2cb33bcbd1f5b1fe8dd0ef"
+
+[update]
+[update.modrinth]
+mod-id = "aqmlcBrn"
+version = "FJwwDdE9"

@@ -1,0 +1,13 @@
+name = "Creepy Decorations"
+filename = "creepydecorations-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DneL9xAa/versions/YCQ58G3t/creepydecorations-forge-1.20.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "12d83ff65dc6f4a4d38c3ff356a8e85035695150e8b693e1fbffd5267b723072d7a9fa66534d32cf240c8f7586a61c4bc0e81d46919239ed4a5d3252c0966c57"
+
+[update]
+[update.modrinth]
+mod-id = "DneL9xAa"
+version = "YCQ58G3t"

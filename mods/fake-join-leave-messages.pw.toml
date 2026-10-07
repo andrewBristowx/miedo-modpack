@@ -1,0 +1,13 @@
+name = "HORROR - Fake Join/Leave Messages"
+filename = "fake_join_leave-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6OgYdPlK/versions/B2kLp6Qi/fake_join_leave-forge-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "b9ff1e4bc183a2e11b58b3f7ba89b64588ce8aeea2e50f97747de9562133d21a36bd6f06f7af037e082cd4214a1261eee86cddaf800f3bc10a4b68d9141e701f"
+
+[update]
+[update.modrinth]
+mod-id = "6OgYdPlK"
+version = "B2kLp6Qi"

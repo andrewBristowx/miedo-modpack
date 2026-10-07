@@ -1,0 +1,13 @@
+name = "The Hollow Stalker (horror)(not a dweller)"
+filename = "thehollowstalker-1.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W2U6MtrS/versions/2CvxeM4E/thehollowstalker-1.4-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "2df392fd02f04233a09a97495a4d10fe297dcc66a7c55bbfa97138ff1c3e8cf5710bb95dc9cdf3cbc1a42f10ab8389ef7d75d73da8146988e598db1825872b55"
+
+[update]
+[update.modrinth]
+mod-id = "W2U6MtrS"
+version = "2CvxeM4E"

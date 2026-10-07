@@ -1,0 +1,13 @@
+name = "True Darkness Biomes"
+filename = "darkness-1.20.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c44xmpkF/versions/39nowrB1/darkness-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "2f5450a71287cb050a9c03987439b6c1b9460234becf94ebc567dba96fe887f384221e707ed5f7a50a746475e91222c384b6bc666808cb87c36c474470e54a4e"
+
+[update]
+[update.modrinth]
+mod-id = "c44xmpkF"
+version = "39nowrB1"

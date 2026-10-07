@@ -1,0 +1,290 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "9c72fcd2a6173e1530c064ec3070d9b389a1d15ccd85a630ec274171c813ee48"
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "1047a7b018546f650c04d6999110a3b80b246fd0ab716e8375d3565c3942dcfe"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "51ff658734e40cb4a7524f2d93ebd527f1f9954b60960b2824812b23b2f21e10"
+metafile = true
+
+[[files]]
+file = "mods/arphex.pw.toml"
+hash = "063e10196bdc19b7bef3a6cbefc78c6ba89a09ff6f1030c8699796857137f1d5"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+metafile = true
+
+[[files]]
+file = "mods/better-cave-dweller.pw.toml"
+hash = "70b50b22caf2cf0847f683f48e2f604a722a391914a86af8b367fe0f19fd81cd"
+metafile = true
+
+[[files]]
+file = "mods/boy-and-the-bath.pw.toml"
+hash = "2feafb114f7cc121eb82f054612ea5261e0ee4aa6fd0f2e3eeedbb7c8cc5ec95"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "83696650659994c6facf18e79b7b53877a0df0622d6beeeb7b27bbe75f6bc0b7"
+metafile = true
+
+[[files]]
+file = "mods/creepy-decorations.pw.toml"
+hash = "3c14008cda157b92cf5758c535cad7ae3879083157886e1f50993ab3581eb4b1"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "5d6d43656bce9989f7e172e4b2051104a505aabb273979bd85b76ae9eb6bf30c"
+metafile = true
+
+[[files]]
+file = "mods/doctor-nowhere.pw.toml"
+hash = "293b1a510f0bc55f9abace90bf983a9f25ecb0ab508088375e736f626f5d19c1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
+metafile = true
+
+[[files]]
+file = "mods/error-404-not-found.pw.toml"
+hash = "7721ef812856d0d48284fbaf173d81085f32b5ac2ae042291961833c542d5b71"
+metafile = true
+
+[[files]]
+file = "mods/fake-join-leave-messages.pw.toml"
+hash = "6b701c08a3ac96e4dd124b6a87b96f0d6dcbba9e7810b0b5edc780412c14a434"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/flashier-flashlights.pw.toml"
+hash = "97eed615bc3c32b2c6b8ba859c89bd0bfe4c331817a2daa97d5d2b8addf4e171"
+metafile = true
+
+[[files]]
+file = "mods/from-another-dimensionghosts.pw.toml"
+hash = "c6f40bee8ef94b35b2814293cb32f937309c406150d921bf84278fc98f38fdd3"
+metafile = true
+
+[[files]]
+file = "mods/from-the-caves-official.pw.toml"
+hash = "74931f6e62a51300410e7913568aa143b4a7c9cc2eba89a3acb08b65ee604f1b"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dd18fd6bae21df582b4fffc3dd18a4972e783a859c0295e5ea8582a6617dceb5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
+metafile = true
+
+[[files]]
+file = "mods/horror-messages.pw.toml"
+hash = "974fee25d849aafe12e7d816cc0c6bcb87f588aed920066f6401d682f25b8949"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "fda62419ea0d286061260ceb7dc1e27ea6ebdfc1ab6a01a588c5e9e2243a6200"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "054e65d7f7235e0d37aba40cd421fbfbb7f092dc1d797d0423b4b35f42a209d8"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "cf5268ed8ccfbb42839632548def74826e9fc284b2c6c5e9306208d870dc295d"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "40ea5e9191b1560cef362977d393631c507cd5faecf8830a518fc879c2d23261"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/paranoia.pw.toml"
+hash = "194bc78924a4abe9aca905b0b417a6fba5ff5dfae9fe77be9b2fa92e6370f1e8"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "54936963c5dd1d34a4b6539fedd9200e4520ebb1a78d55fd55448b6a99955630"
+metafile = true
+
+[[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
+metafile = true
+
+[[files]]
+file = "mods/server-side-horror.pw.toml"
+hash = "f613c785ea670d3f91625eee90a93bee38b90f0bd1f9cf99b5737aad978409e4"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "1c74be9c170d1e4cb69d9c541700cb03ac3886315a17f31987e2facae78aa7b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3bd4e09190316b4c4901ba9fd822b891e2cf216eb645687458e3547ad13f93f0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d0a96fe57be1729dc0d4e697b4b1238b0f2d51eb5c16bbc8b4cdd7e525220b6b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "c833f91ecbd1b6d9d14c0e2ce3810bc730756d07ec83397b0bb3d142ee9b927f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/tct-core.pw.toml"
+hash = "348a733f771872537bc4270d6e831f4985700b8e4b201ae38c41a7944e41ae0a"
+metafile = true
+
+[[files]]
+file = "mods/tctflashlight.pw.toml"
+hash = "b16cb57a3094dc9d718f35b37a8818f064ef9012a9b13d83cddb4e8a1827a13a"
+metafile = true
+
+[[files]]
+file = "mods/tense-ambience.pw.toml"
+hash = "f02b115143936dadcf852ee62a874dcb817c0882fda1f4cea286c7717bb4fe20"
+metafile = true
+
+[[files]]
+file = "mods/the-anomaly.pw.toml"
+hash = "7fad47028e82cfad43d3e8267df8a9bda2d91ae7237f65f269d341e785264a8a"
+metafile = true
+
+[[files]]
+file = "mods/the-boiled-one-reimagined.pw.toml"
+hash = "629a32aab522ca2afb4a9d96b7ec337d8bec9d2976df56294a70ba7c8d7dd238"
+metafile = true
+
+[[files]]
+file = "mods/the-hollow-stalker.pw.toml"
+hash = "b2c8062a006cf26b398e4469eb76d622165055a9cfa9f47c8e2148ea4b7039c2"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-biomes.pw.toml"
+hash = "9e1f88d0839d4d87024a043044dbc147b45c59d66424fc3fced223a9773c3fdf"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
+metafile = true
+
+[[files]]
+file = "mods/whispering-spirits.pw.toml"
+hash = "eacceb2ea139a2179c44b44f72e51002175b3605a65411ce8c2557f0dc01c6bb"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "af776888ac0f8cfceea87a7648f737205afe00a3074653ec537a65d84375c9f0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "85113766ca417c7581be5a8bd5a0dfb812d9cb96831c1e63c5bb7f0669cab7b5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "0a01697586fb287fb20c6afb9baaa5be31e508cbce137303e06797ba682dd608"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "25ef2ed087bc84b132a14b5ff6dc8ce6a0aed5b61db804db538ee4bdac93c6d2"
+metafile = true

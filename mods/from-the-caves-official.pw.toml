@@ -1,0 +1,13 @@
+name = "From The Caves"
+filename = "from_the_caves-0.7.26.fm-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s41HfLjb/versions/8y2avq2t/from_the_caves-0.7.26.fm-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1fb8785f4507a5053aa54cde0d9b1249fd2a48e8a103c9d91bc1416446d780a41cdfd1144478134eede109f5c9ac6672024957db8994254240295a2055d3d646"
+
+[update]
+[update.modrinth]
+mod-id = "s41HfLjb"
+version = "8y2avq2t"
