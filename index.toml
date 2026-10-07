@@ -5,6 +5,38 @@ file = "config/bfcmod-common.toml"
 hash = "82e43afdd4736b245e2447f478c7774b1c544ec0d0e9ecb2e4a059a11ccd0993"
 
 [[files]]
+file = "config/fancymenu/assets/miedo_button_hover.png"
+hash = "bf539691b56eced82bd44cb8165f81be86240519a97c7465597a2c99a2b5819b"
+
+[[files]]
+file = "config/fancymenu/assets/miedo_button_inactive.png"
+hash = "316dd5786ce7185b9b121e3449fbdd7de97ca4d1f455439763cd62f52863838f"
+
+[[files]]
+file = "config/fancymenu/assets/miedo_button_normal.png"
+hash = "efe6f2706177a86b1013ef61800f7280575872553bbb3634e5c1082867897fc1"
+
+[[files]]
+file = "config/fancymenu/assets/miedo_loading_bg.jpg"
+hash = "219df48397c508f4d52ef730cdc7c8452997fdaf0fecf2ab08e982eaa5d99289"
+
+[[files]]
+file = "config/fancymenu/assets/miedo_loading_logo.png"
+hash = "283beacdec49be5529f1279763488980115884fa67b68631eb92376bc9307266"
+
+[[files]]
+file = "config/fancymenu/customization/miedo_loading.txt"
+hash = "605007126188eda952bb0713c2807236d9dfd6772f1e383a2a2f90d7d33f3aa6"
+
+[[files]]
+file = "config/fancymenu/customization/miedo_title.txt"
+hash = "cb6708eb4c9379772f1bf109bab2ded4bce3701112501e8c4a280b296295fef6"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "271e503f44e71731770815ecd8f7aec01294db81633a4b0be5a10c28c90e47bf"
+
+[[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "ce216aacd19da873e9009c258dc63da81d83bd077474ce2dc7c06981cf05c6d9"
 preserve = true
@@ -102,6 +134,11 @@ hash = "6dd8ba5faabb03ad13f7e6e4ac68387985bf723580ebc3dc8b00d4f29cc65e42"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "07c258eed928dfa116dcf134acc16886029a3921bb520984f117dd596c828a7e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
 metafile = true
@@ -124,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/fake-join-leave-messages.pw.toml"
 hash = "6b701c08a3ac96e4dd124b6a87b96f0d6dcbba9e7810b0b5edc780412c14a434"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6d249bb1b8d325f2536a1a4830d1fe55e1b6fa99d044b67d49003ad6c82e4bb2"
 metafile = true
 
 [[files]]
@@ -172,6 +214,11 @@ hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "646e07186d74573a2fbe26164fb39f037ae614c9ddcda21e969603d825d2aae5"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
@@ -187,6 +234,11 @@ hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -194,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "054e65d7f7235e0d37aba40cd421fbfbb7f092dc1d797d0423b4b35f42a209d8"
+metafile = true
+
+[[files]]
+file = "mods/no-realms-button.pw.toml"
+hash = "0f4143818776bd9a41af650db383fdecaaf8c67659fc9ddde77d21cf82c190bc"
 metafile = true
 
 [[files]]
@@ -333,7 +390,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/MiedoPack.zip"
-hash = "fffc36ae782cb5540970c426dcb256f420cee199603e2ddddac1ffd5437ceb0f"
+hash = "1b99211bc866eb22e7ce6ceb8fd9aa6bbc66bbf3f9104b4724b11c95e87c77ce"
 
 [[files]]
 file = "resourcepacks/horror-ambience-music-echoes.pw.toml"

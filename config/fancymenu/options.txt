@@ -1,0 +1,47 @@
+##[general]
+
+I:default_gui_scale = '-1';
+B:force_fullscreen = 'false';
+B:play_vanilla_menu_music = 'true';
+
+
+##[customization]
+
+B:modpack_mode = 'false';
+B:show_customization_overlay = 'false';
+B:advanced_customization_mode = 'true';
+
+
+##[loading]
+
+B:game_intro_fade_out = 'true';
+
+
+##[window]
+
+B:show_custom_window_icon = 'false';
+S:custom_window_title = 'Terror de Pony0n';
+
+
+##[multiplayer_screen]
+
+B:show_multiplayer_screen_server_icons = 'true';
+
+
+##[tutorial]
+
+B:show_welcome_screen = 'false';
+
+
+##[global_customizations]
+
+S:global_button_background_normal = '/config/fancymenu/assets/miedo_button_normal.png';
+S:global_button_background_hover = '/config/fancymenu/assets/miedo_button_hover.png';
+S:global_button_background_inactive = '/config/fancymenu/assets/miedo_button_inactive.png';
+B:global_button_background_nine_slice = 'false';
+B:global_button_background_transparent = 'false';
+S:global_button_label_base_color = '#E6D6D0';
+S:global_button_label_hover_color = '#FF4A4A';
+B:global_button_label_shadow = 'true';
+B:global_button_label_underline_on_hover = 'false';
+B:seamless_world_loading = 'true';
