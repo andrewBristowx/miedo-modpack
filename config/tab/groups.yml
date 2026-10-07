@@ -1,0 +1,9 @@
+# Los rangos (prefijos) se definen en LuckPerms (/lp group <grupo> meta setprefix ...).
+# TAB los lee con %luckperms-prefix% y los muestra en el tab: "[Rango] Jugador".
+_DEFAULT_:
+  tabprefix: "%luckperms-prefix%"
+  customtabname: "%player%"
+  tabsuffix: ""
+  # Sin prefijo sobre la cabeza del jugador (mas inmersivo en un server de terror)
+  tagprefix: ""
+  tagsuffix: ""

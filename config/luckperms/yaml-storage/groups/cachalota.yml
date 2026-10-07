@@ -1,0 +1,6 @@
+name: cachalota
+permissions:
+- weight.30
+prefixes:
+- '&b[Cachalota] ':
+    priority: 30

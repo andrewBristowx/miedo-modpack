@@ -1,0 +1,6 @@
+name: admin
+permissions:
+- weight.100
+prefixes:
+- '&c[Admin] ':
+    priority: 100

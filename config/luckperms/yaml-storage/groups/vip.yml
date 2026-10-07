@@ -1,0 +1,6 @@
+name: vip
+permissions:
+- weight.20
+prefixes:
+- '&6[VIP] ':
+    priority: 20

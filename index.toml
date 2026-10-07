@@ -1,8 +1,45 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bfcmod-common.toml"
+hash = "82e43afdd4736b245e2447f478c7774b1c544ec0d0e9ecb2e4a059a11ccd0993"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "ce216aacd19da873e9009c258dc63da81d83bd077474ce2dc7c06981cf05c6d9"
+preserve = true
+
+[[files]]
+file = "config/luckperms/yaml-storage/groups/admin.yml"
+hash = "1aa7622c96591f83ddb638f50f8994d8c70e1eae7c07a82d5c036793540e4379"
+preserve = true
+
+[[files]]
+file = "config/luckperms/yaml-storage/groups/cachalota.yml"
+hash = "57b1dbfc0853b00d8c31bdf9549923d758f03d913a3041598ba72fbece1810f4"
+preserve = true
+
+[[files]]
+file = "config/luckperms/yaml-storage/groups/default.yml"
+hash = "432bcdd6f71e5a2a0a4a80c51545776dea052e895f19a99978cdd279bf873126"
+preserve = true
+
+[[files]]
+file = "config/luckperms/yaml-storage/groups/vip.yml"
+hash = "5dfd0a2615e3f33936563b39246c961ab6d8173122dae5cb825463c2bc2c38e5"
+preserve = true
+
+[[files]]
 file = "config/oculus.properties"
 hash = "b48a528806f42a6634accbce1de70b6eaab90b6697ebf702d28d02aa7c4d18a3"
+
+[[files]]
+file = "config/tab/config.yml"
+hash = "505322b4ecec64b6d08859a5525bff763e3c802afb0d7fe93f912b21405d4cd0"
+
+[[files]]
+file = "config/tab/groups.yml"
+hash = "1a323d1459b0610cdda638a6e6f46a9d58eac19fb275f94cc6ed19b55454728a"
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
@@ -27,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/better-cave-dweller.pw.toml"
 hash = "70b50b22caf2cf0847f683f48e2f604a722a391914a86af8b367fe0f19fd81cd"
+metafile = true
+
+[[files]]
+file = "mods/better-forge-chat-(luckperms)-fork.pw.toml"
+hash = "6bd02fc3354df60b2f84c3db1bdd5762e07c16625866e26eaf18b8f059b1d98f"
 metafile = true
 
 [[files]]
@@ -140,6 +182,11 @@ hash = "fda62419ea0d286061260ceb7dc1e27ea6ebdfc1ab6a01a588c5e9e2243a6200"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -217,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "2650b1a87673cb0e6d79cc66e1e6f294e1b7facb1882b38d32522cebfa6e3fc2"
 metafile = true
 
 [[files]]

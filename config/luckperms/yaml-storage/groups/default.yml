@@ -1,0 +1,6 @@
+name: default
+permissions:
+- weight.1
+prefixes:
+- '&7[Sobreviviente] ':
+    priority: 1
