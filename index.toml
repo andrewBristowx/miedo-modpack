@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/doctor-nowhere.pw.toml"
-hash = "293b1a510f0bc55f9abace90bf983a9f25ecb0ab508088375e736f626f5d19c1"
+hash = "6dd8ba5faabb03ad13f7e6e4ac68387985bf723580ebc3dc8b00d4f29cc65e42"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "1c74be9c170d1e4cb69d9c541700cb03ac3886315a17f31987e2facae78aa7b1"
+hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
@@ -276,15 +276,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "85113766ca417c7581be5a8bd5a0dfb812d9cb96831c1e63c5bb7f0669cab7b5"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "0a01697586fb287fb20c6afb9baaa5be31e508cbce137303e06797ba682dd608"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/insanity-shader.pw.toml"
-hash = "25ef2ed087bc84b132a14b5ff6dc8ce6a0aed5b61db804db538ee4bdac93c6d2"
+hash = "dd71ee301a1856082c140379dfaaf859c53294def0bf1e21709932aa373b2095"
 metafile = true
