@@ -1,0 +1,13 @@
+name = "Tax' Cave Writer"
+filename = "TaxCaveWriter+M.1.20.1+ForM.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5quKCo8J/versions/wgLjl2K4/TaxCaveWriter%2BM.1.20.1%2BForM.1.0.1.jar"
+hash-format = "sha512"
+hash = "65b1d74bd7cc7109e6f250582b58801b77200fb2b87fca5eda650c31ee4bc3df5288fd8c5b5406e82d0ef9ba662cb9c23e3edf84306e874399e9cb50f0b4aca7"
+
+[update]
+[update.modrinth]
+mod-id = "5quKCo8J"
+version = "wgLjl2K4"

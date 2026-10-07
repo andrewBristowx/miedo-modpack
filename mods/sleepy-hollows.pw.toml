@@ -1,0 +1,13 @@
+name = "Sleepy Hollows"
+filename = "sleepy_hollows-forge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7LLnfx8/versions/klwzDwbs/sleepy_hollows-forge-1.0.2.jar"
+hash-format = "sha512"
+hash = "68d0ea9139eddaa5b66739a5c01aff4b86da93e94eaa7a77b7e6cee684694a840f4601bd8bd20935b0f22a2080da6e7365b1fe041794a3738d59cbe6c8c545af"
+
+[update]
+[update.modrinth]
+mod-id = "d7LLnfx8"
+version = "klwzDwbs"

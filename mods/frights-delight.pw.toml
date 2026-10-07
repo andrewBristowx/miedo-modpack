@@ -1,0 +1,13 @@
+name = "Fright's Delight"
+filename = "frightsdelight-forge-1.20.1-1.4.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awWvXlb2/versions/r31i2Fd1/frightsdelight-forge-1.20.1-1.4.8.jar"
+hash-format = "sha512"
+hash = "565e0418bc6ad8b6ae1a11b683b3eaf2960befe438b2b9e43a5dd43d91694bfcc53cc8831997f55532f61bb2252ff373549bd005c2e48c4d1e0e41495212b7c1"
+
+[update]
+[update.modrinth]
+mod-id = "awWvXlb2"
+version = "r31i2Fd1"

@@ -1,0 +1,13 @@
+name = "Tax' Cave Reader"
+filename = "TaxCaveReader+M.1.20.1+ForM.1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PUleEM8/versions/CctPY8Kk/TaxCaveReader%2BM.1.20.1%2BForM.1.0.0.jar"
+hash-format = "sha512"
+hash = "d3bfaceda1af5c92a256376e5d9956261e9d84de2aa4bd2a85bb32073dfc3bbda2a881e83b567949f2133815a5c5107ff05b55be4044933713567ae875b2f7fd"
+
+[update]
+[update.modrinth]
+mod-id = "6PUleEM8"
+version = "CctPY8Kk"
