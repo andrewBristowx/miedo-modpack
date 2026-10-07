@@ -1,0 +1,13 @@
+name = "Horror Cave Sounds"
+filename = "HorrorCaveSounds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eKp1hkbk/versions/45lwLmnC/%C2%A7c%C2%A7lHorror%20Cave%20Sounds.zip"
+hash-format = "sha512"
+hash = "f759349eb4be2f1d5799129e0c6e065ec0642a9f3ef3b24a0ef5c1a9646c44ba0ecb9d58dbd5a199eb410f07391cf6ca4fd4b7c34c5a1eae112bda76f7db630a"
+
+[update]
+[update.modrinth]
+mod-id = "eKp1hkbk"
+version = "45lwLmnC"

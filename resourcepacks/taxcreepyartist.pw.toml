@@ -1,0 +1,13 @@
+name = "Tax' Creepy Artist"
+filename = "TaxCreepyArtist+M.1.20.1+ResP.1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rk1nx6Gr/versions/zLoS3hgT/TaxCreepyArtist%2BM.1.20.1%2BResP.1.0.1.zip"
+hash-format = "sha512"
+hash = "092ea91d54b36a82c838348ee403201253793e6302d9a0fd8c6da1f9045498138902d4da2938f569f3114eac9404c3eb98da4dc6b854710864741375d4a202aa"
+
+[update]
+[update.modrinth]
+mod-id = "rk1nx6Gr"
+version = "zLoS3hgT"

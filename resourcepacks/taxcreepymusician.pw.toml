@@ -1,0 +1,13 @@
+name = "Tax' Creepy Musician"
+filename = "TaxCreepyMusician+M.1.20.1+ResP.1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8AHmDjhZ/versions/KWVvbX4U/TaxCreepyMusician%2BM.1.20.1%2BResP.1.0.0.zip"
+hash-format = "sha512"
+hash = "9e785e418e4d2c156bf7a5d03d6d9b7cb78c0cd10db214b5f88c5238da80c8668cf3a17e8a7a0b12e2e26114f21b8f988f4f0b017e3c2445f5bad1626ab90d06"
+
+[update]
+[update.modrinth]
+mod-id = "8AHmDjhZ"
+version = "KWVvbX4U"

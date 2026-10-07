@@ -22,15 +22,11 @@ hash = "219df48397c508f4d52ef730cdc7c8452997fdaf0fecf2ab08e982eaa5d99289"
 
 [[files]]
 file = "config/fancymenu/assets/miedo_loading_logo.png"
-hash = "283beacdec49be5529f1279763488980115884fa67b68631eb92376bc9307266"
+hash = "f298a81d20c0c511e662942007a620381f87a6f45c81d15a8c82cb5b062531c8"
 
 [[files]]
 file = "config/fancymenu/customization/miedo_loading.txt"
-hash = "605007126188eda952bb0713c2807236d9dfd6772f1e383a2a2f90d7d33f3aa6"
-
-[[files]]
-file = "config/fancymenu/customization/miedo_title.txt"
-hash = "cb6708eb4c9379772f1bf109bab2ded4bce3701112501e8c4a280b296295fef6"
+hash = "4330fb3062b0e294fafdf5b746affe549205c71078c52b595048b0c098f19c5b"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -249,11 +245,6 @@ hash = "054e65d7f7235e0d37aba40cd421fbfbb7f092dc1d797d0423b4b35f42a209d8"
 metafile = true
 
 [[files]]
-file = "mods/no-realms-button.pw.toml"
-hash = "0f4143818776bd9a41af650db383fdecaaf8c67659fc9ddde77d21cf82c190bc"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "cf5268ed8ccfbb42839632548def74826e9fc284b2c6c5e9306208d870dc295d"
 metafile = true
@@ -385,16 +376,21 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "130b25398ce1ab3040650baa2614cf0f1223e51c5224bc9192f31eb9b4d15a7a"
+hash = "799c59bf279819c2b067c9ffb32bec3d884059afce4a63da2653df15d2c44eba"
 preserve = true
 
 [[files]]
 file = "resourcepacks/MiedoPack.zip"
-hash = "1b99211bc866eb22e7ce6ceb8fd9aa6bbc66bbf3f9104b4724b11c95e87c77ce"
+hash = "5e5e8b0ede378353d86b67881da8352a1dc33692579219fd1df0cf1bacda19e0"
 
 [[files]]
-file = "resourcepacks/horror-ambience-music-echoes.pw.toml"
-hash = "5f7b2a8a4bd4beef1b5c3e2107c37c2bea99516b2c8574698bfba5e017ef1778"
+file = "resourcepacks/horror-cave-sounds.pw.toml"
+hash = "f0fc408a3b7215db46f3e7c75b30f72acb667592d7b1aa58df5b6f4007da6b2d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/taxcreepyartist.pw.toml"
+hash = "6e8951a7a634cb5f3bd19565fae9f3e700a0966e120d5213616036dfc1d9c5c2"
 metafile = true
 
 [[files]]
@@ -403,13 +399,18 @@ hash = "684d72426b3f4ff33cd7a2897bf708418db25215ed9693ba9c42e868bd1ec0c0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/taxcreepyvillager.pw.toml"
-hash = "3294199767ee682ef8e450cc6a1cf0eb58c1fe2e5bc78f01dbe4d9ea60ecbfb6"
+file = "resourcepacks/taxcreepymusician.pw.toml"
+hash = "b4c6b62d7a0469ed0e7ea8056155db870fd02fc11c54ad554720c7b507d57a01"
 metafile = true
 
 [[files]]
-file = "resourcepacks/willows-scary-cave-sounds.pw.toml"
-hash = "813acc3118730e2d29fc78ba0b4451a6333a7373503385da3b27de6e68601ec5"
+file = "resourcepacks/taxcreepyspeaker.pw.toml"
+hash = "65e4c3b8c279a117dcc32f6631dd3dd83ccafaaa113a1e2e62b3bdb06e559655"
+metafile = true
+
+[[files]]
+file = "resourcepacks/taxcreepyvillager.pw.toml"
+hash = "3294199767ee682ef8e450cc6a1cf0eb58c1fe2e5bc78f01dbe4d9ea60ecbfb6"
 metafile = true
 
 [[files]]

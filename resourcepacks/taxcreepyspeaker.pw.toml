@@ -1,0 +1,13 @@
+name = "Tax' Creepy Speaker"
+filename = "TaxCreepySpeaker+M.1.20.1+ResP.1.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mzp301Hk/versions/dAkJ9XSA/TaxCreepySpeaker%2BM.1.20.1%2BResP.1.1.0.zip"
+hash-format = "sha512"
+hash = "5633d9a3a6d82e54ea81883e733b658a6556f5f65e1059ec5e4c228760c84a2c6f7cf8b183eb3c375bf86ecad1b35146dfd1ca3b1e8b8ec8a9e7a0173c692d81"
+
+[update]
+[update.modrinth]
+mod-id = "Mzp301Hk"
+version = "dAkJ9XSA"
