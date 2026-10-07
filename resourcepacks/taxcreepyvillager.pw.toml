@@ -1,0 +1,13 @@
+name = "Tax' Creepy Villager"
+filename = "TaxCreepyVillager+M.1.20.1+ResP.1.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6HC5WpwN/versions/2ZyHYgcP/TaxCreepyVillager%2BM.1.20.1%2BResP.1.1.0.zip"
+hash-format = "sha512"
+hash = "f2b997e6b6131a38c7e04c93b07b3481778f3434c03377d414ad229c8500637237b4f39aa384043eebcbb65c50a4e2bb6c518abdd3fd4ad4193d3c2389e1e140"
+
+[update]
+[update.modrinth]
+mod-id = "6HC5WpwN"
+version = "2ZyHYgcP"

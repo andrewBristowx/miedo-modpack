@@ -1,0 +1,13 @@
+name = "Tax' Creepy Mob"
+filename = "TaxCreepyMob+M.1.20.1+ResP.1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7VU2kV21/versions/r3OUczR0/TaxCreepyMob%2BM.1.20.1%2BResP.1.0.0.zip"
+hash-format = "sha512"
+hash = "fa3fd1cbd1790ec3f0c74ad5dfd7ef1e4db6678258ea23f7ea2a85ad77eb837756bcc91533fa34a20a34a10d631847199eab4219f45c8fe4443d35646b6e1774"
+
+[update]
+[update.modrinth]
+mod-id = "7VU2kV21"
+version = "r3OUczR0"

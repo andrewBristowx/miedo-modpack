@@ -327,6 +327,40 @@ hash = "af776888ac0f8cfceea87a7648f737205afe00a3074653ec537a65d84375c9f0"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "130b25398ce1ab3040650baa2614cf0f1223e51c5224bc9192f31eb9b4d15a7a"
+preserve = true
+
+[[files]]
+file = "resourcepacks/MiedoPack.zip"
+hash = "fffc36ae782cb5540970c426dcb256f420cee199603e2ddddac1ffd5437ceb0f"
+
+[[files]]
+file = "resourcepacks/horror-ambience-music-echoes.pw.toml"
+hash = "5f7b2a8a4bd4beef1b5c3e2107c37c2bea99516b2c8574698bfba5e017ef1778"
+metafile = true
+
+[[files]]
+file = "resourcepacks/taxcreepymob.pw.toml"
+hash = "684d72426b3f4ff33cd7a2897bf708418db25215ed9693ba9c42e868bd1ec0c0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/taxcreepyvillager.pw.toml"
+hash = "3294199767ee682ef8e450cc6a1cf0eb58c1fe2e5bc78f01dbe4d9ea60ecbfb6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/willows-scary-cave-sounds.pw.toml"
+hash = "813acc3118730e2d29fc78ba0b4451a6333a7373503385da3b27de6e68601ec5"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "deb76f06e227679bed6e2b5376c7472d78a3c0d90d459245f4a22a42bdfd2bd7"
+preserve = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
