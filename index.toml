@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9c72fcd2a6173e1530c064ec3070d9b389a1d15ccd85a630ec274171c813ee48"
+hash = "b48a528806f42a6634accbce1de70b6eaab90b6697ebf702d28d02aa7c4d18a3"
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
