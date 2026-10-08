@@ -79,7 +79,7 @@ hash = "1a323d1459b0610cdda638a6e6f46a9d58eac19fb275f94cc6ed19b55454728a"
 
 [[files]]
 file = "config/verity-common.toml"
-hash = "846c94067f7b7eb835d771718bd07fc8b1fdfe0aa33c651d979f1d438de3c13d"
+hash = "a33aeb46632795358e5784874dc787dd51c6cdc44dbd8f9f4f7be48b0eb6b822"
 preserve = true
 
 [[files]]
