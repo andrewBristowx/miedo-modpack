@@ -67,7 +67,7 @@ hash = "b48a528806f42a6634accbce1de70b6eaab90b6697ebf702d28d02aa7c4d18a3"
 
 [[files]]
 file = "config/openloader/resources/MiedoES.zip"
-hash = "bde4867fbe4470cacd4e774680ce1d0dcea35ceff7cfaa521130431f8a82b53c"
+hash = "99075a1f3a7b6695ad7a43a8c10cfd94f83906271b5a5da8e314a1a042a9ca3b"
 
 [[files]]
 file = "config/tab/config.yml"
@@ -76,6 +76,11 @@ hash = "505322b4ecec64b6d08859a5525bff763e3c802afb0d7fe93f912b21405d4cd0"
 [[files]]
 file = "config/tab/groups.yml"
 hash = "1a323d1459b0610cdda638a6e6f46a9d58eac19fb275f94cc6ed19b55454728a"
+
+[[files]]
+file = "config/verity-common.toml"
+hash = "c5ad61f0d7bcf674bbfe5c9a811e190a7ae487899d155d67422361002b358ebc"
+preserve = true
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -535,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
+metafile = true
+
+[[files]]
+file = "mods/verity-je-official.pw.toml"
+hash = "02158eab17c7fcdcfe684dad1bed415d7c9c62ca23249decc2835dfcf751a73f"
 metafile = true
 
 [[files]]

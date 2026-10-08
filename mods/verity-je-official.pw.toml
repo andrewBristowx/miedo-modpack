@@ -1,0 +1,13 @@
+name = "Verity JE"
+filename = "verity-5.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/on1Y0osD/versions/Tc8RyKmi/verity-5.7.4.jar"
+hash-format = "sha512"
+hash = "1e9ccc1a5166112d96213e0f44d1dbb607d6dc7418b0b99c871ec00b6a07722c7072477864134113431253837727e36592f9d8fa1b298bde3f6e70f5a4e34f3c"
+
+[update]
+[update.modrinth]
+mod-id = "on1Y0osD"
+version = "Tc8RyKmi"
