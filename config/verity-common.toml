@@ -7,7 +7,7 @@ dayCount = 5
 #Allow Verity to kick you from the server.
 canCrash = true
 #Play the Verity Edit on the startup of the client.
-playVideo = true
+playVideo = false
 #Require 'Verity' in every sentence to speak to him.
 requireVerity = false
 #Use the OS's built-in narrator (Windows, macOS, Linux) instead of Groq cloud TTS.
