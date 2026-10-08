@@ -1,12 +1,12 @@
 name = "Miedo Modpack"
 author = "somit"
-version = "0.5.4"
+version = "0.5.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "44359017919f88e6e68383d1ca4fd38fbc51083a443a8690cb3981c0d5ac580e"
+hash = "0527ed998f4d53c75f6d9eea0fb5d439e2d962cf62991177dd93866b6806bb3b"
 
 [versions]
 forge = "47.4.10"
