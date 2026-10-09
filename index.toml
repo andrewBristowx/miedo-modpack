@@ -533,6 +533,11 @@ hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
 metafile = true
 
 [[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "b8045b5cd3b12a300913a6fc066fb4d7a0c9c9ece468dcf604a5648d4c283d59"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness-biomes.pw.toml"
 hash = "9e1f88d0839d4d87024a043044dbc147b45c59d66424fc3fced223a9773c3fdf"
 metafile = true
@@ -545,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/verity-je-official.pw.toml"
 hash = "02158eab17c7fcdcfe684dad1bed415d7c9c62ca23249decc2835dfcf751a73f"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "91761c25fe6f8b111173c7097efc8c53af7224151a2d2be07eae8027833bd775"
 metafile = true
 
 [[files]]
